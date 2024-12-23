@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eyMtN4cewmqfHNxPNlcssC4AOVM1Y2mKNIgms+7uARA=",
+  "Source": "SmsSenderApi",
+  "BasePath": "_content/SmsSenderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
